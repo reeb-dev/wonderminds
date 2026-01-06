@@ -23,4 +23,4 @@ La aplicación estará disponible en http://localhost:4200
 
 ## 📍 Ubicación
 
-Academia de inglés Wonder Minds de Sofia Iorio - Tandil, Buenos Aires, Argentina
+Academia de inglés Wonder Minds de Sofia Iorio - Buenos Aires, Argentina
